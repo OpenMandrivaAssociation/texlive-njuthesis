@@ -1,5 +1,5 @@
 Name:		texlive-njuthesis
-Version:	69051
+Version:	71034
 Release:	1
 Summary:	LaTeX thesis template for Nanjing University
 Group:		Publishing
