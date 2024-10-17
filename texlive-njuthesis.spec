@@ -3,7 +3,7 @@ Version:	71034
 Release:	1
 Summary:	LaTeX thesis template for Nanjing University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/njuthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/njuthesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njuthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/njuthesis.doc.r%{version}.tar.xz
